@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Damage
+  - Hang
+  - Exit
+  - LevelLoader
+  - LevelUnlocker
+  - EndGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Projectile
+  - Damage
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 291687139
+    locked: 0
+  - name: Tilemap Background
+    uniqueID: 2624497041
+    locked: 0
+  - name: Player
+    uniqueID: 1698530515
+    locked: 0
+  - name: Tilemap Foreground
+    uniqueID: 1092603193
+    locked: 0
+  - name: UI
+    uniqueID: 1598960931
+    locked: 0
